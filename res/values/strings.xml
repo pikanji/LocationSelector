@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocationSelector</string>
+    <!-- Google MAPs API key -->
+    <string name="map_key">0P4FfRNWhQ7b80CRtq4hxkYWa1ZlwDK2D0JDvMw</string>
+</resources>
